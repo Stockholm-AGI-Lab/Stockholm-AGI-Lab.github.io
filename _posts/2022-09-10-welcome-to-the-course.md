@@ -6,4 +6,6 @@ slug: welcome to the course
 
 Welcome to the AGI Course at Digital Futures!
 
+More information will be published soon.
+
 ---
