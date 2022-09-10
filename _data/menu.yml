@@ -1,11 +1,10 @@
 entries:
-  - title: me
+  - title: Contact information
     entries:
       - title: email
         url: mailto:hello@stockholmagilab.se
       - title: github
         url: http://github.com/stockholm-agi-lab
-      - title: "keep in touch: <a href='/newsletter.html'>newsletter</a>, <a href='/feed.xml'>rss feed</a>"
 
-  - title: Stockholm AGI Lab News
+  - title: Recent posts
     post_list: true
