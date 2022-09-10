@@ -2,10 +2,10 @@ entries:
   - title: me
     entries:
       - title: email
-        url: mailto:riccardo.graziosi97@gmail.com
+        url: mailto:hello@stockholmagilab.se
       - title: github
-        url: http://github.com/riggraz/
+        url: http://github.com/stockholm-agi-lab
       - title: "keep in touch: <a href='/newsletter.html'>newsletter</a>, <a href='/feed.xml'>rss feed</a>"
 
-  - title: thoughts
+  - title: Stockholm AGI Lab News
     post_list: true
